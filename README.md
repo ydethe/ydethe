@@ -12,19 +12,17 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```javascript
 const yanndethe = {
-    code: ["Typescript", "Javascript", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["Typescript", "SQL", "Python"],
+    askMeAbout: ["web dev", "docker", "app dev"],
     technologies: {
-        backEnd: {
-            js: ["Angular", "Fastapi"],
-        },
+        backEnd: ["Angular", "Fastapi"],
         mobileApp: {
             native: ["iOS Development"]
         },
         devOps: ["AWS", "Docker 🐳", "Traefik"],
         databases: ["Postgresql", "sqlite"]
     },
-    architecture: ["Backend", "Scientific Python", "Single page applications"],
+    architecture: ["Backend", "Scientific Python", "Single Page Applications"],
 };
 ```
 
